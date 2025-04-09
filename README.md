@@ -52,16 +52,8 @@ Disfruto crear soluciones web eficientes, seguras y escalables. Me motiva aprend
 </p>
 
 
-
----
-
-### ✍️ Firma
-
 > ~ Ángel Benítez | iamfreelancer404  
 > ¡Gracias por pasarte! Nos vemos en el próximo commit 🔧✨  
 > Happy coding! 😎👨‍💻  
 > `function life() { return 'code & coffee ☕' }`
 
----
-
-<p align="center">✨ README generado por Ángel ✨</p>
