@@ -1,6 +1,8 @@
 <!-- Logo o imagen destacada -->
 <p align="center">
-  <img src="https://iamfreelancer404.netlify.app/src/img/logo/blanco/Logos%C2%A0(Tama%C3%B1o%C2%A0libre)/Transparente.png" alt="Logo" width="200"/>
+  <a href="https://iamfreelancer404.netlify.app/">
+  <img src="https://iamfreelancer404.netlify.app/src/img/logo/blanco/Logos%C2%A0(Tama%C3%B1o%C2%A0libre)/Transparente.png" alt="Logo" width="400"/>
+  </a>
 </p>
 
 <h1 align="center">Hola, soy Ángel 👋</h1>
@@ -38,16 +40,16 @@ Disfruto crear soluciones web eficientes, seguras y escalables. Me motiva aprend
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ángel-benitez/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="margin-right: 25px;"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/people/IamFreelancer404/61574625526860/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" style="margin: 0 25px;"/>
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/iamfreelancer404/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" style="margin: 0 25px;"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://iamfreelancer404.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Sitio Web" style="margin-left: 15px;"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Sitio Web"/>
   </a>
 </p>
 
