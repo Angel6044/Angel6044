@@ -1,7 +1,7 @@
 <!-- Logo o imagen destacada -->
 <p align="center">
   <a href="https://iamfreelancer404.netlify.app/">
-  <img src="https://iamfreelancer404.netlify.app/src/img/logo/blanco/Logos%C2%A0(Tama%C3%B1o%C2%A0libre)/Transparente.png" alt="Logo" width="400"/>
+  <img src="https://iamfreelancer404.netlify.app/assets/img/logo/Transparente.png" alt="Logo" width="400"/>
   </a>
 </p>
 
